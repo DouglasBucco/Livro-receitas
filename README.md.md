@@ -2,11 +2,11 @@
 
 olá! Bem vindo ao meu livro de receitas
 
-- [ ]   strogonoff de frango
+- [ ] strogonoff de frango
+- [ ] Pavê
 
-      ​
 
-  
+
 
 
 
